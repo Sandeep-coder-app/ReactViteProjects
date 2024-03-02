@@ -1,6 +1,8 @@
 # Reatc Vite Projects
 
 ## 1. Color Changer
+
+<img src = "https://github.com/Sandeep-coder-app/ReactViteProjects/blob/main/colorChanger/src/assets/Screenshot%202024-03-02%20105756.png" />
 ``` javascript
 function App() {
   const [color, setColor] = useState("teal")
@@ -27,4 +29,4 @@ function App() {
 }
 ```
 
-<img src = "https://github.com/Sandeep-coder-app/ReactViteProjects/blob/main/colorChanger/src/assets/Screenshot%202024-03-02%20105756.png" width = 300 />
+
