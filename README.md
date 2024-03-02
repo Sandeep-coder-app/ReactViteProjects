@@ -32,5 +32,5 @@ function App() {
 
 ## 2. Password Generator
 
-<img src = "https://github.com/Sandeep-coder-app/ReactViteProjects/blob/main/passwordGenerator/src/assets/Screenshot%202024-03-02%20133441.png" /
+<img src = "https://github.com/Sandeep-coder-app/ReactViteProjects/blob/main/passwordGenerator/src/assets/Screenshot%202024-03-02%20133441.png" />
 
